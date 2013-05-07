@@ -115,7 +115,7 @@
  
 ### Pirates à l’horizon !
 * 123 - http://daviddarts.com
-* 124 - http://mypiratebox.com
+* 124 - http://mypiratebox.com => lien cassé ! voir page wikipedia http://fr.wikipedia.org/wiki/PirateBox
  
 ### Au paradis de la bidouille
 * 126 - http://www.macrone.de/multitouch/
@@ -136,7 +136,6 @@
 * 141 - http://usinette.org/projets/sex-toys-diy
  
 ### À l’école des hackers
-* 
  
 ## Chapitre 4 - Démocratie 2.0
  
