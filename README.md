@@ -160,7 +160,6 @@
 
  
 ## Chapitre 5 - Du bazar dans les cathédrales
-* 157 -  Eric S - RAYMOND, The Cathedral & the Bazaar, O’Reilly, 2001.
  
 ### Des essaims et une méduse
 * 162 - http://owni.fr/2012/03/07/hackers-decapites-lulzsec-anonymous-fbi-sabu
