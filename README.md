@@ -86,7 +86,6 @@
 * 51 - http://www.bbc.co.uk/news/technology-16367042
 * 52 - http://shackspace.de/wiki/doku.php?id=project:hgg
 * 53 - http://www.copenhagensuborbitals.com
-* 
  
 ## Chapitre 3 - Culture du partage, partage de la culture
  
@@ -135,7 +134,6 @@
 * 136 - http://reprap.org/wiki/FoldaRap
 * 140 - http://owni.fr/2012/07/16/rebooter-les-villages
 * 141 - http://usinette.org/projets/sex-toys-diy
-* 
  
 ### À l’école des hackers
 * 
@@ -160,9 +158,7 @@
 * 154 - http://www.bastamag.net/article2745.html
  
 ### « Changer le système avant qu’il ne nous change »
-* 
-* 
-* 
+
  
 ## Chapitre 5 - Du bazar dans les cathédrales
 * 157 -  Eric S - RAYMOND, The Cathedral & the Bazaar, O’Reilly, 2001.
