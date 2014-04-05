@@ -1,6 +1,6 @@
 # Liens du Livre Hackers au coeur de la résistance numérique d'Amaelle GUITON
 * http://hackers.micro-ouvert.net/
-* https://twitter.com/micro_ouvert
+* https://twitter.com/amaelle_g (anciennement @micro_ouvert)
  
 ## Introduction
 * http://reflets.info/john-perry-barlow-et-sa-declaration-dindependance-du-cyberespace/
